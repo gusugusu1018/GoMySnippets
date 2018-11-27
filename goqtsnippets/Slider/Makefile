@@ -1,0 +1,2 @@
+all:
+	qtdeploy test desktop .
